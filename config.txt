@@ -1,0 +1,6 @@
+owner=393750549901869057
+prefix=!
+game=Break | fplay | fhelp
+stayinchannel=true
+songinstatus=false
+token=NTU4NjY2MDA5NTM2MzY0NTY0.XJ7m3Q.w-LaDYMNX9r1dE_sFzYDtADI7Rg
