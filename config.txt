@@ -1,6 +1,6 @@
 owner=393750549901869057
-prefix=ku
-game=Type kuplay
+prefix=6
+game=Type 6play
 stayinchannel=true
-songinstatus=true
+songinstatus=false
 token=NTU3MjA0MDg1NDA1OTA5MDMy.XJ7uxg.d7duV9684MjRxPMwepmlTYfCzoE
